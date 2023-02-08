@@ -1,0 +1,22 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
+h1{
+    font-family: 'Montserrat' ,sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+/***********************class******************/
+
+
+
+
+
+
+/************************id********************/
+#title{
+    background-color: #ff4c68;
+}
