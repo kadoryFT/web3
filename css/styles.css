@@ -11,6 +11,13 @@ h1{
     color: white;
     width: 90%;
 }
+h3{
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+p{
+    color: #8f8f8f;
+}
 
 
 /***********************class******************/
@@ -50,8 +57,18 @@ h1{
 .Download{
     margin: 25px 40px;
 }
+.row1 {
+    margin: 10%;
+    line-height: 2;
+}
+.heart {
+    font-size: 4.2rem;
+    color:#ef8172 ;
+      margin-bottom: 15px;
+}
 
-
-
+.heart:hover {
+    color:#ff4c68 ;
+}
 /************************id********************/
 
