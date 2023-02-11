@@ -11,6 +11,12 @@ h1{
     color: white;
     width: 90%;
 }
+h2{
+    font-family: 'Montserrat' ,sans-serif;
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1.5;
+}
 h3{
     font-weight: 700;
     font-size: 1.5rem;
@@ -70,5 +76,33 @@ p{
 .heart:hover {
     color:#ff4c68 ;
 }
+.dog2{
+    margin: 0 auto;
+    text-align: center;
+    width: 75%;
+}
+.testimonial-image {
+    width: 10%;
+    border-radius: 50%;
+    margin: 20px;
+}
+.logo {
+    width: 15%;
+    margin: 20px 20px 50px ;
+}
+.carousel-item {
+   padding: 11% 15%; 
+} 
 /************************id********************/
+#testimonials{
 
+   
+    background-color: #ef8172;
+    text-align: center;
+    color: #fff;  
+}
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding: 30px;
+}
