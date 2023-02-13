@@ -21,7 +21,7 @@ h2{
 }
 h3{
     font-weight: 700;
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 p{
     color: #8f8f8f;
@@ -30,7 +30,10 @@ li{
     padding-bottom: 3%;
     color: #8f8f8f ;
 }
-
+h5 {
+    font-size: 5rem;
+    font-weight: 900;
+}
 /***********************class******************/
 
     
@@ -131,6 +134,24 @@ position: relative;
 z-index: 1;
 line-height: 2;
 
+}
+#cta { 
+    background-color: #ff4c68;
+    color: #fff;
+    text-align: 1.5;
+    font-family: 'Montserrat', sans-serif ;
+    padding: 10%;
+    text-align: center; 
+    
+}
+#footer {
+    padding: 10%;
+    line-height: 3;
+    text-align: center;
+    background-color: #fff;
+}
+.f2 {
+    padding: 0 1%;
 }
 @media (max-width: 1000px )  {
    
